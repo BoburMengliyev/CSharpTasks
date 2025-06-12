@@ -15,3 +15,7 @@
 6. C# ENCAPSULATION
 7. C# RECORDS
 ```
+
+## Program performance
+
+![Task4](Screenshot_1.png)
