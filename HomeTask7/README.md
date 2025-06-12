@@ -18,4 +18,4 @@
 
 ## Program performance
 
-![Images](./images/Screenshot_1.png)
+![Images](./HomeTask7/Screenshot_1.png)
