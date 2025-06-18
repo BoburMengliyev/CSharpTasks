@@ -10,18 +10,27 @@ Bu loyiha **konsol ilovasi** bo‘lib, xodimlar (`Employee`) va bo‘limlar (`De
 
 > `Domain` **arxitektura**
 
-> `Department.cs` > ![images](./Pictures/Screenshot_2.png)
+> `Department.cs`
 
-> `Employee.cs` > ![images](./Pictures/Screenshot_3.png)
+![images](./Pictures/Screenshot_2.png)
+
+> `Employee.cs`
+
+![images](./Pictures/Screenshot_3.png)
 
 > `Infrastructure` **arxitektura**
 
-> `DepartmentService.cs` > ![images](./Pictures/Screenshot_4.png)
+> `DepartmentService.cs`
 
-> `EmployeeService.cs` > ![images](./Pictures/Screenshot_5.png)
+![images](./Pictures/Screenshot_4.png)
 
-> `Program.cs` => **natija**
-> ![images](./Pictures/Screenshot_6.png)
+> `EmployeeService.cs`
+
+![images](./Pictures/Screenshot_5.png)
+
+> `Program.cs` **natija**
+
+![images](./Pictures/Screenshot_6.png)
 
 ---
 
