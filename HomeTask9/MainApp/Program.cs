@@ -31,5 +31,6 @@ class Program
 
         Console.WriteLine($"Xodimlar soni: {employeeService.CountEmployees()}");
         Console.WriteLine($"Bo‘limlar soni: {departmentService.CountDepartments()}");
+        Console.ReadKey();
     }
 }
