@@ -90,6 +90,8 @@ Suppose that we are required to model students and teachers in our application.
 
 - Implement the BirdCount.CountForFirstDays() method that returns the number of birds that have visited your garden from the start of the week, but limit the count to the specified number of days from the start of the week.
 
+## 💻 Sample Code Screenshot
+
 ![Images](./Pictures/Screenshot_6.png)
 
 ## Task7
@@ -97,5 +99,7 @@ Suppose that we are required to model students and teachers in our application.
 ### Calculate the number of busy days
 
 - Some days are busier than others. A busy day is one where five or more birds have visited your garden. Implement the BirdCount.BusyDays() method to return the number of busy days:
+
+## 💻 Sample Code Screenshot
 
 ![Images](./Pictures/Screenshot_7.png)
