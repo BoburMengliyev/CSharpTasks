@@ -1,0 +1,14 @@
+{
+  "Users": {
+    "2012387405": {}
+  },
+  "Homeworks": {
+    "2012387405": [
+      {
+        "Subject": "cweeeee",
+        "Title": "dscwec",
+        "DueDate": "2001-01-01T00:00:00"
+      }
+    ]
+  }
+}
